@@ -125,3 +125,4 @@ d2 = {'Name' : ['Johnnie Walker','Chivas Regal','The Dalmore','Amrut','Glein Fid
 print(d2)
 df2=pd.DataFrame(d2,columns=['Name','Storage'])
 df1
+df2
